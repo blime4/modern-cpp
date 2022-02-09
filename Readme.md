@@ -19,8 +19,8 @@
 | [容器](https://changkun.de/modern-cpp/zh-cn/04-containers/index.html) | [array](src/04/4.1.linear.container.cpp)<br />[unordered map](src/04/4.2.unordered.map.cpp)<br />[tuple]() | ⭐⭐⭐   |
 | [智能指针与内存管理](https://changkun.de/modern-cpp/zh-cn/05-pointers/index.html) | [shared_ptr](src/05/5.1.shared.ptr.cpp)<br />[unique ptr](src/05/5.2.unique.ptr.cpp)<br />[circular reference](src/05/5.3.circular.reference.cpp)<br />[weak ptr](src/05/5.4.weak.ptr.cpp) | ⭐     |
 | [正则表达式](https://changkun.de/modern-cpp/zh-cn/06-regex/index.html) | [regex](src/06/6.1.regex.cpp)                                | ⭐     |
-| [并行与并发](https://changkun.de/modern-cpp/zh-cn/07-thread/index.html) | [thread](src/07/7.1.thread.basic.cpp)<br />[lock_guard](src/07/7.2.critical.section.a.cpp)<br />[unique_guard](src/07/7.3.critical.section.b.cpp)<br />[future](src/07/7.4.futures.cpp)<br />😐 | ⭐⭐⭐⭐⭐ |
-|                                                              |                                                              |       |
+| [并行与并发](https://changkun.de/modern-cpp/zh-cn/07-thread/index.html) | [thread](src/07/7.1.thread.basic.cpp)<br />[lock_guard](src/07/7.2.critical.section.a.cpp)<br />[unique_guard](src/07/7.3.critical.section.b.cpp)<br />[future](src/07/7.4.futures.cpp)<br />😐<br />TODO | ⭐⭐⭐⭐⭐ |
+| [其他杂项](https://changkun.de/modern-cpp/zh-cn/09-others/index.html) | [noexcept](src/09/9.1.noexcept.cpp)<br />[literal](src/09/9.2.literals.cpp)<br />[alignment](src/09/9.3.alignment.cpp) | ⭐     |
 |                                                              |                                                              |       |
 |                                                              |                                                              |       |
 
