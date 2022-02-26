@@ -32,7 +32,13 @@
 | c++特性  | [enable_if_t](https://en.cppreference.com/w/cpp/types/enable_if)<br />[underlying_type_t](https://en.cppreference.com/w/cpp/types/underlying_type) |
 
 
+# [学习 烽火前秦路 的 More Effective C++](https://blog.csdn.net/qianqin_2014/category_6212881.html)
 
+> 这个博主挺幽默的
++ [More Effective C++----(17)考虑使用lazy evaluation(懒惰计算法)](https://blog.csdn.net/qianqin_2014/article/details/51330339)
++ [More Effective C++----(18)分期摊还期望的计算](https://blog.csdn.net/qianqin_2014/article/details/51332879)
++ [More Effective C++----(19)理解临时对象的来源](https://blog.csdn.net/qianqin_2014/article/details/51333376)
++ 
 
 
 
